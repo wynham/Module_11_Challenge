@@ -38,7 +38,7 @@ This third image shows Prophet the forecast for search trends over the full time
 
 ![mercado_prophet3.png](mercado_prophet3.png)
 
-This final image is from Part 5, and displays the Prophet model for sales forecasts.
+This final image is from Part 5, and displays the Prophet model for the MercadoLibre sales forecasts.
 
 ![mercado_prophet4.png](mercado_prophet4.png)
 
